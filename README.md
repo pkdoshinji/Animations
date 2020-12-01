@@ -1,10 +1,9 @@
 # Double_elastic
 
-![](Images/octopus2.gif)
-
-
 ### Overview
 Python-based animated simulation of the double elastic pendulum.
+
+![](Images/octopus2.gif)
 
 ### Installation
 
