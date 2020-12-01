@@ -9,9 +9,9 @@ Python-based animated simulation of the double elastic pendulum.
 
 ```
 git clone https://github.com/pkdoshinji/Animations
-pip3 install numpy
-pip3 install matplotlib
-pip3 install scipy matplotlib
+sudo pip3 install numpy
+sudo pip3 install matplotlib
+sudo pip3 install scipy matplotlib
 ```
 
 ### Use
